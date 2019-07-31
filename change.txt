@@ -1,4 +1,9 @@
 pavan
 modified and pushing into
+i am staying in kundalahalli.
 welcome devops batch
+<<<<<<< HEAD
 hello devops friends
+=======
+
+>>>>>>> ed6b0fdfbb90427b296476881c05ac0d86d36cd6
