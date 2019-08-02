@@ -5,3 +5,4 @@ this is our 50th batch on DevOps - Marathahalli,MindQ systems.
 =======
 this is our 50th batch on 3 months DevOps
 >>>>>>> 78e175b5321c4e5faa7a44e1c1f407d639d886f8
+To day is 31st July
